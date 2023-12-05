@@ -77,11 +77,11 @@ npm install
 ```
 ### Start the UI server
 ```
-npm run serve
+npm run dev
 ```
 ### View on your browser
 
-http://localhost:8080
+http://localhost:5173
 
 
 
